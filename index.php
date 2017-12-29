@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>제목</title>
+        <style></style>
     </head>
     <body>
         <h1>git</h1>
