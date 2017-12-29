@@ -1,4 +1,7 @@
 <html>
+    <head>
+        <title>제목</title>
+    </head>
     <body>
         <h1>git</h1>
         <ul>
