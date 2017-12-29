@@ -6,5 +6,6 @@
             <li>버전</li>
             <li>브랜치</li>
         </ul>
+        <a href="#">링크</a>
     </body>
 </html>
