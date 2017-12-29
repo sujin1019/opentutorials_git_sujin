@@ -6,6 +6,7 @@
             <li>버전</li>
             <li>브랜치</li>
             <li>마스터</li>
+            <li>공부</li>
         </ul>
     </body>
 </html>
