@@ -5,6 +5,7 @@
             <li>저장소</li>
             <li>버전</li>
             <li>브랜치</li>
+            <li>마스터</li>
         </ul>
     </body>
 </html>
