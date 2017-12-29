@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>제목</title>
+        <title>Git 소개</title>
         <style></style>
     </head>
     <body>
