@@ -15,7 +15,7 @@
         <ul>
             <li>conflict.jinny.sujin</li>
             <li>sync.sujin</li>
-            <li>저장소</li>
+            <li>Repository</li>
             <li>버전</li>
             <li>브랜치</li>
             <li>마스터</li>
