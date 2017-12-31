@@ -13,6 +13,7 @@
         <h1>git</h1>
         <h1>git2</h1>
         <ul>
+            <li>conflict.sujin</li>
             <li>sync.sujin</li>
             <li>저장소</li>
             <li>버전</li>
