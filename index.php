@@ -19,7 +19,7 @@
             <li>마스터</li>
             <li>충돌</li>
             <li>push.sujin</li>
-            <li>pull</li>
+            <li>pull.jinny</li>
         </ul>
         마스터브랜치에요~~ㅎㅎ
         안녕하세요.
