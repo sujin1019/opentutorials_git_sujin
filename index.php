@@ -22,6 +22,7 @@
             <li>충돌</li>
             <li>push.sujin</li>
             <li>pull.jinny</li>
+            <li>외부도구 마스터</li>
         </ul>
         마스터브랜치에요~~ㅎㅎ
         안녕하세요.
